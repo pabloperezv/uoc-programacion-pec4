@@ -1,6 +1,6 @@
 # Programación para la Ciencia de datos - PEC4
 
- Este repositorio está dedicado a la solución de la **Práctica 4 ** de la asignatura **Programación para la Ciencia de datos** del **Máster de Ciencia de Datos de la UOC**.
+ Este repositorio está dedicado a la solución de la **Práctica 4** de la asignatura **Programación para la Ciencia de datos** del **Máster de Ciencia de Datos de la UOC**.
  
 ## Contenido del repositorio:
 - **main.py**: es el script principal con los 5 apartados del ejercicio a realizar resueltos.
