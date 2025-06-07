@@ -63,6 +63,18 @@
     python main.py -ex 3
     ```
 
+## Extras
+
+Para crear la documentación simplemente basta con ejecutar en la terminal:
+```bash
+pdoc embassaments -o doc
+```
+
+Para comprobar el linting ejecutamos en la terminal:
+```bash
+pylint embassaments main.py
+```
+
 ---
 
 *Autor: Pablo Perez Verdugo*
